@@ -135,6 +135,9 @@ while the background image is loading */
         align-items: center;
         justify-content: center;
     }
+    #join_us_button{
+        margin-left: 0px !important;
+    }
     /* #combinedlogo{
         width: 300px;
     } */
